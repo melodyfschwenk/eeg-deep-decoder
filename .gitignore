@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pt
+demo_data/
+export_for_python/
+*.set
+*.fdt
+*.mat
